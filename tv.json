@@ -9,20 +9,20 @@
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
-        "µçÓ°",
-        "µçÊÓ¾ç",
-        "¶¯Âş",
-        "¶Ì¾ç",
-        "×ÛÒÕ"
+        "ç”µå½±",
+        "ç”µè§†å‰§",
+        "åŠ¨æ¼«",
+        "çŸ­å‰§",
+        "ç»¼è‰º"
       ]
     }
   ],
   "lives": [
     {
-      "group": "×Ô¶¨Òå",
+      "group": "è‡ªå®šä¹‰",
       "channels": [
         {
-          "name": "Ö±²¥Ô´",
+          "name": "ç›´æ’­æº",
           "urls": [
             "about:blank"
           ]
@@ -32,9 +32,9 @@
   ],
   "parses": [
     {
-      "name": "½âÎö1",
-      "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "name": "è§£æ1",
+      "type": 1,
+      "url": "https://vip.xiaomaomi.tv/api.php?key=cfnoprtCEGJMNQUY59&url="
     }
   ],
   "flags": [
@@ -51,7 +51,7 @@
   ],
   "ijk": [
     {
-      "group": "Èí½âÂë",
+      "group": "è½¯è§£ç ",
       "options": [
         {
           "category": 4,
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "group": "Ó²½âÂë",
+      "group": "ç¡¬è§£ç ",
       "options": [
         {
           "category": 4,
