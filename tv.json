@@ -4,7 +4,7 @@
       "key": "meem",
       "name": "meem",
       "type": 1,
-      "api": "http://192.168.5.227/api.php/provide/vod/",
+      "api": "http://192.168.5.227/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
